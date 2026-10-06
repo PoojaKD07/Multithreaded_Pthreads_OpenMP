@@ -1,0 +1,6 @@
+threads,pthreads_speedup,openmp_speedup,pthreads_efficiency_pct,openmp_efficiency_pct
+1,0.999,1.003,99.90,100.25
+2,1.938,1.914,96.91,95.72
+4,3.851,3.831,96.28,95.78
+6,5.655,5.679,94.25,94.65
+16,9.575,9.619,59.84,60.12

@@ -1,0 +1,13 @@
+# Compiled executables
+/bin/*
+!/bin/.gitkeep
+
+# Temporary/editor files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Object files
+*.o

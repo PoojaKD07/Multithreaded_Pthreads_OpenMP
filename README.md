@@ -153,9 +153,6 @@ For the performance tests, enter:
 16
 ```
 
-## Repository policy
-
-Compiled executables are excluded from version control. The repository contains the source code, build instructions, recorded results, and terminal evidence required to understand and reproduce the experiment.
 
 ## Conclusion
 
